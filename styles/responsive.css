@@ -64,7 +64,7 @@
     }
 }
 
-@media (max-width: 982px) {
+@media (max-width: 999px) {
     .wrapper {
         margin: 0 auto;
         margin-top: none;
@@ -113,7 +113,7 @@
     }
 }
 
-@media (max-width:933px){
+@media (max-width:949px){
     .name {
         width: 80%;
     }
