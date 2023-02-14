@@ -3,7 +3,8 @@
 }
 .header {
     width: 100%;
-    height: 155px;
+    background-color: #000000;
+    height: 120px;
     position: fixed;
     z-index: 100;
 }
